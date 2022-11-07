@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "nE83CQKjgDymzP7BUKVm52XBLI4PKMhtYuhtkb5lazGOX/N6OdNiP0BQQDTlIgGcgk1eG8DBs51n9B7YgR7gZQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Hp\\source\\repos\\WebApplication2\\WebApplication2\\WebApplication2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Hp\\.nuget\\packages\\confluent.kafka\\1.9.3\\confluent.kafka.1.9.3.nupkg.sha512",
+    "C:\\Users\\Hp\\.nuget\\packages\\librdkafka.redist\\1.9.2\\librdkafka.redist.1.9.2.nupkg.sha512",
+    "C:\\Users\\Hp\\.nuget\\packages\\system.memory\\4.5.0\\system.memory.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
